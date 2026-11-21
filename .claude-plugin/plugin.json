@@ -1,0 +1,18 @@
+{
+  "name": "competitive-teardown",
+  "version": "0.1.0",
+  "description": "Evidence-based competitive teardowns of apps, websites, and desktop software, plus a market roll-up that finds your differentiator.",
+  "author": {
+    "name": "Drew Podwal"
+  },
+  "keywords": [
+    "competitive analysis",
+    "market research",
+    "product teardown",
+    "product management",
+    "knowledge base"
+  ],
+  "license": "CC-BY-4.0 AND MIT",
+  "repository": "https://github.com/takethecan0lis/competitive-teardown",
+  "homepage": "https://github.com/takethecan0lis/competitive-teardown"
+}
