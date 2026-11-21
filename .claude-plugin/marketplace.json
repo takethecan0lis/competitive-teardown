@@ -1,0 +1,14 @@
+{
+  "name": "competitive-teardown-marketplace",
+  "description": "Evidence-based competitive teardown skills and agents for product people.",
+  "owner": {
+    "name": "Drew Podwal"
+  },
+  "plugins": [
+    {
+      "name": "competitive-teardown",
+      "source": "./",
+      "description": "Evidence-based competitive teardowns of apps, websites, and desktop software, plus a market roll-up that finds your differentiator."
+    }
+  ]
+}
